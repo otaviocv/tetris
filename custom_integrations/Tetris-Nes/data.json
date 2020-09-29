@@ -1,0 +1,16 @@
+{
+  "info": {
+    "lines": {
+      "address": 80,
+      "type": "<d2"
+    },
+    "score": {
+      "address": 83,
+      "type": "<d3"
+    },
+    "gameover": {
+      "address": 88,
+      "type": "|u1"
+    }
+  }
+}
